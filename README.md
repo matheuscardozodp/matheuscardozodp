@@ -30,8 +30,8 @@
   <a href="https://www.linkedin.com/in/matheuscardozodp/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardozodp/" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5521965840501&text=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20Matheus%20Cardozo%20de%20Paula" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521965840501&text=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20Matheus%20Cardozo%20de%20Paula"/></a>
 
 
   <a href="https://www.instagram.com/matheuscardoz_/" alt="Instagram">
