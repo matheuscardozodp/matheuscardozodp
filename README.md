@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, PhotoShop.</strong>
+  💼 Ferramentas: <strong>VSCODE, PhotoShop, Git e GitHub.</strong>
 </p>
 
 <p align="left">
