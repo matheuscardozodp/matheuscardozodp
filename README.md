@@ -7,8 +7,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá meu nome é Matheus Cardozo, sou desenvolvedor de <strong>Front-End.</strong><br>
+  Estou disponível trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
@@ -20,18 +20,12 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
 
-<p align="left">
-  <a href="malito:matheuscardozodp@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/matheuscardozodp/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardozodp/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5521965840501&text=Ol%C3%A1!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521965840501&text=Ol%C3%A1!"/></a>
 
 
   <a href="https://www.instagram.com/matheuscardoz_/" alt="Instagram">
